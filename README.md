@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hi there, I am Amruth Pugal. I'm currently a student pursuing my Master of Technology from IIT Hyderabad. I am an Algorithms enthusiast, a MERN Stack developer. I do competetive coding, Codechef (4⭐) and I like to solve problems (LeetCode 300+). I'm passionate about learning new things which I find intriguing 📚.
+Hi there, I am Amruth Pugal. I'm currently a student pursuing my Master of Technology from IIT Hyderabad. I am an Algorithms enthusiast, I like to solve problems (LeetCode 800+). I'm passionate about learning new things which I find intriguing .
 
 ## 🛠️ **Languages & Tools:**
 
